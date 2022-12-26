@@ -477,10 +477,10 @@
       (net 15 "Net-(J2-Pad2)") (pinfunction "Pin_2") (pintype "passive") (tstamp 0b5f00a2-35b0-4488-a07f-0317638aac25))
     (pad "3" thru_hole oval (at 10 0 90) (size 1.98 3.96) (drill 1.32) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "Pin_3") (pintype "passive") (tstamp 88538272-e831-4bb0-a574-65b8164ba858))
-    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Altech_AK300-3_P5.00mm.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+    (model "${KIPRJMOD}/libs/pkg3d/BR1103V.stp"
+      (offset (xyz -12 -4 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -1208,10 +1208,10 @@
       (net 22 "PORT_INJA") (pinfunction "Pin_1") (pintype "passive") (tstamp d877f580-6d68-4d56-8784-975b0501741b))
     (pad "2" thru_hole oval (at 5 0) (size 1.98 3.96) (drill 1.32) (layers *.Cu *.Mask)
       (net 23 "PORT_INJB") (pinfunction "Pin_2") (pintype "passive") (tstamp 0b7733c8-e22d-4677-8aeb-86eba4bd5d04))
-    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Altech_AK300-2_P5.00mm.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+    (model "${KIPRJMOD}/libs/pkg3d/BR1102V.stp"
+      (offset (xyz -2 -4 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -1440,7 +1440,7 @@
 
   (footprint "Connector_USB:USB_B_Lumberg_2411_02_Horizontal" (layer "F.Cu")
     (tedit 5E6EAC30) (tstamp 5167fb3e-ae7b-4d1b-b367-d83284375851)
-    (at 191.54 88.4975 90)
+    (at 191.35 84.3875 90)
     (descr "USB 2.0 receptacle type B, horizontal version, through-hole, https://downloads.lumberg.com/datenblaetter/en/2411_02.pdf")
     (tags "USB B receptacle horizontal through-hole")
     (property "Sheetfile" "basic_f051r8.kicad_sch")
@@ -1490,10 +1490,10 @@
       (net 2 "GND") (pinfunction "Shield") (pintype "passive") (tstamp 48eb8033-63bd-4b99-9611-6a5d6c3e36bf))
     (pad "5" thru_hole circle (at 4.86 -4.75 180) (size 4 4) (drill 2.3) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "Shield") (pintype "passive") (tstamp aeda2d33-4003-42b6-8c72-92446ebd18b7))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_B_Lumberg_2411_02_Horizontal.wrl"
-      (offset (xyz 0 0 0))
+    (model "${KIPRJMOD}/libs/pkg3d/usb-b.stp"
+      (offset (xyz -2 -7.5 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 -90))
     )
   )
 
@@ -1896,10 +1896,10 @@
       (net 3 "+12V") (pinfunction "Pin_1") (pintype "passive") (tstamp 03c5a1ea-21c5-49a8-86c8-1255d74d0812))
     (pad "2" thru_hole oval (at 5 0 90) (size 1.98 3.96) (drill 1.32) (layers *.Cu *.Mask)
       (net 4 "GNDPWR") (pinfunction "Pin_2") (pintype "passive") (tstamp c9267a32-2554-409a-8d3a-2bb7361970b6))
-    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Altech_AK300-2_P5.00mm.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+    (model "${KIPRJMOD}/libs/pkg3d/BR1102V.stp"
+      (offset (xyz -2 -4 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -2715,10 +2715,10 @@
       (net 21 "CRANK_PORT") (pinfunction "Pin_1") (pintype "passive") (tstamp 8c2b6ef4-c649-4bb5-90c5-e6fe547901f5))
     (pad "2" thru_hole oval (at 5 0 90) (size 1.98 3.96) (drill 1.32) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "Pin_2") (pintype "passive") (tstamp 9e02b015-349b-4888-8f07-51905f3e80a3))
-    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Altech_AK300-2_P5.00mm.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+    (model "${KIPRJMOD}/libs/pkg3d/BR1102V.stp"
+      (offset (xyz -2 -4 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -3553,10 +3553,10 @@
       (net 19 "PORT_IGNA") (pinfunction "Pin_1") (pintype "passive") (tstamp c2e24920-2c44-4411-adea-fba84208b9be))
     (pad "2" thru_hole oval (at 5 0) (size 1.98 3.96) (drill 1.32) (layers *.Cu *.Mask)
       (net 20 "PORT_IGNB") (pinfunction "Pin_2") (pintype "passive") (tstamp f5ae8c68-70cd-48a7-a642-f0f965ad2ee6))
-    (model "${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Altech_AK300-2_P5.00mm.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+    (model "${KIPRJMOD}/libs/pkg3d/BR1102V.stp"
+      (offset (xyz -2 -4 0))
+      (scale (xyz 0.5 0.5 0.5))
+      (rotate (xyz -90 0 0))
     )
   )
 
