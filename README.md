@@ -9,3 +9,9 @@ This project try to build a custom engine control as flexible as possible, based
 - The design currently in very early stage and not for end user usage.
 
 ![images](images/functionality.png?raw=true)
+
+## Crankshaft Position Sensor Alternative
+
+Using Photo Interrupter Sensor and Encoder Wheel with one tooth missing as counter reset.
+
+![images](images/pikup_alt.png?raw=true)
