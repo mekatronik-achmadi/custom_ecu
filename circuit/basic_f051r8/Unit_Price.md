@@ -9,10 +9,10 @@
 | FT232RL | Rp. 65.000 | [Tokopedia](https://www.tokopedia.com/eltech-online/ft232rl-ft-232rl-232-ftdi-usb-to-serial-uart-rs-232-rs232-rs) | - |
 | IRF540 | Rp. 22.000 | [Tokopedia](https://www.tokopedia.com/eltech-online/ft232rl-ft-232rl-232-ftdi-usb-to-serial-uart-rs-232-rs232-rs) | - |
 | 2N3904 | Rp. 1.200 | [Tokopedia](https://www.tokopedia.com/isee/2n-3904-2n3904-dip-transistor-to-92-0-2a-40v) | - |
-| PCB Prototyping | Rp. 150.000 | [Tokopedia](https://www.tokopedia.com/geraicerdas/cetak-pcb-1-keping-single-double-layer-rapid-prototyping-satuan) | - |
-| Non-IC | Rp. 50.000 | - | - |
+| PCB Prototyping | Rp. 150.000 | [Tokopedia](https://www.tokopedia.com/geraicerdas/cetak-pcb-1-keping-single-double-layer-rapid-prototyping-satuan) | Estimasi Total Luasan PCB |
+| Non-IC | Rp. 50.000 | - | Gelondongan Komponen |
 | Ongkir/Transport | Rp. 50.000 | - | - |
-| Jasa Solder/Assembly Manual | Rp. 150.000 | - | - |
+| Jasa Solder/Assembly Manual | Rp. 150.000 | - | Termasuk Checking PCB |
 
 Total Estimasi Per Unit Rp. 587.200
 
